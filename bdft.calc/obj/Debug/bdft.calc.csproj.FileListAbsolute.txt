@@ -1,0 +1,14 @@
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\bin\Debug\bdft.calc.exe.config
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\bin\Debug\bdft.calc.exe
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\bin\Debug\bdft.calc.pdb
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc.csprojResolveAssemblyReference.cache
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\MainWindow.g.cs
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\App.g.cs
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc_MarkupCompile.cache
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc_MarkupCompile.lref
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\MainWindow.baml
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc.g.resources
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc.Properties.Resources.resources
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc.csproj.GenerateResource.Cache
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc.exe
+C:\Users\achapman\documents\visual studio 2017\Projects\bdft.calc\bdft.calc\obj\Debug\bdft.calc.pdb
